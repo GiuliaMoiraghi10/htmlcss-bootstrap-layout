@@ -13,31 +13,54 @@
 /* CONTAINER */
 .container{
     text-align: center;
+    
 }
 
 .post-card{
     padding: 10px;
 }
 
+.row{
+    margin-bottom: 20px;
+}
+
 /* COL */
 
-.gray{
+.grey{
     background-color: #F8F9FA;
 }
 
-.darkgray{
+.darkgrey{
     background-color: #6C757D;
     color: white;
 }
 
 .blue{
     background-color: #0D6EFD;
+    color: white;
 }
 
 .green{
     background-color: #198754;
+    color: white;
 }
 
 .red{
     background-color: #DC3545;
+    color: white;
+}
+
+.lightblue{
+    background-color: #0DCAF0;
+    color: white;
+}
+
+.yellow{
+    background-color: #FFC107;
+    color: white;
+}
+
+.black{
+    background-color: #212529;
+    color: white;
 }
