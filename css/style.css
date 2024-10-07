@@ -1,0 +1,21 @@
+/* DEFAULT */
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.debug{
+    border: 2px solid pink;
+}
+
+/* CONTAINER */
+.container{
+    text-align: center;
+}
+
+/* COL */
+.gray{
+    background-color: #F8F9FA;
+}
